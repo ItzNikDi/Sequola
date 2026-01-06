@@ -1,0 +1,6 @@
+.idea/
+backend/zig-out/
+backend/.zig-cache/
+docs/
+proto/
+scripts/
